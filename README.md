@@ -1,7 +1,7 @@
 ## Terraform Commands
 
-|   COMMAND           |  DESCRIPTION  |
-|---------------------|---------------|
+|   COMMAND     |  DESCRIPTION  |
+|---------------|---------------|
 |  `terraform init`  |  Initializes a working directory containing Terraform configuration files. |
 |  `terraform plan`  |  Generates an execution plan, outlining actions Terraform will take. |
 |  `terraform apply`  |  Applies the changes described in the Terraform configuration. |
